@@ -27,12 +27,3 @@ Priorities are visually represented in the task list.
 The app is responsive and mobile-friendly
 There is a clear empty state when no tasks exist
 *Bonus: dark mode toggle or light personalization options*
-
-## Tech Requirements
-- NextJS 15
-- Server Actions (for DB interactions)
-  - Drizzle ORM
-- TailwindCSS
-- Vercel Postgres
-- Deployed to Vercel
-- README with setup instructions
