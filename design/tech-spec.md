@@ -4,12 +4,12 @@
 - [x] Deploy Next.js app to Vercel
 - [x] Provision Vercel Postgres from Next.js app
 - [x] Add Drizzle ORM, configuration, and Task schema
-- [ ] Run Drizzle Kit migration to create tables
-- [ ] Verify tables were created during migration
-- [ ] Add TailwindCSS + configuration
-- [ ] Verify Tailwind is working in the UI
-- [ ] Create test Vercel Server Action and verify it
-- [ ] Add environment vars to Vercel instance
+- [x] Run Drizzle Kit migration to create tables
+- [x] Verify tables were created during migration
+- [x] Add TailwindCSS + configuration
+- [x] Verify Tailwind is working in the UI
+- [x] Create test Vercel Server Action and verify it
+- [x] Add environment vars to Vercel instance
 
 ## Add Tasks
 - [ ] Modal UI to create a new task
